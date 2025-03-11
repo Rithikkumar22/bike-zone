@@ -1,0 +1,103 @@
+[
+    {
+        "name" :"Honda SP 125",
+        "image":"sp125.jpg",
+        "price" :"Rs 1,03,705",
+        "engineCapacity":"124 CC",
+        "mileage":"65 kmpl",
+        "kerbweight":"116 kg",
+        "seatheight":"790 mm",
+        "fuelTankcapacity":"11.2 litres",
+        "power":"10.72 bhp"
+    },
+    {
+        "name" :"Honda Activa 6G",
+        "image":"6g.jpg",
+        "price" :"Rs 93,460",
+        "engineCapacity":"109.51 CC",
+        "mileage":"47 kmpl",
+        "kerbweight":"106 kg",
+        "seatheight":"692 mm",
+        "fuelTankcapacity":"5.3 litres",
+        "power":"7.73 bhp"
+
+    },
+    {
+        "name" :"Honda Shine",
+        "image":"shine.jpg",
+        "price" :"Rs 96,751",
+        "engineCapacity":"123.94 CC",
+        "mileage":"55 kmpl",
+        "kerbweight":"113 kg",
+        "seatheight":"791 mm",
+        "fuelTankcapacity":"10.5 litres",
+        "power":"10.59 bhp"
+
+    },
+    {
+        "name" :"Honda Unicorn",
+        "image":"unicorn.jpg",
+        "price" :"Rs 1,28,826",
+        "engineCapacity":"162.7 CC",
+        "mileage":"50 kmpl",
+        "kerbweight":"140 kg",
+        "seatheight":"798 mm",
+        "fuelTankcapacity":"13 litres",
+        "power":"12.7 bhp"
+    },
+    {
+        "name" :"Honda Activa 125",
+        "image":"activa125.jpg",
+        "price" :"Rs 98,276",
+        "engineCapacity":"124 CC",
+        "mileage":"48 kmpl",
+        "kerbweight":"110 kg",
+        "seatheight":"712 mm",
+        "fuelTankcapacity":"5.3 litres",
+        "power":"8.19 bhp"
+    },
+    {
+        "name" :"Honda Dio",
+        "image":"dio.jpg",
+        "price" :"Rs 92,129",
+        "engineCapacity":"109.51 CC",
+        "mileage":"48 kmpl",
+        "kerbweight":"103 kg",
+        "seatheight":"765 mm",
+        "fuelTankcapacity":"5.3 litres",
+        "power":"7.75 bhp"
+    },
+    {
+        "name" :"Honda Hornet 2.0",
+        "image":"gg.jpeg",
+        "price" :"Rs 1,64,5197",
+        "engineCapacity":"184.4 CC",
+        "mileage":"42.3 kmpl",
+        "kerbweight":"142 kg",
+        "seatheight":"790 mm",
+        "fuelTankcapacity":"12 litres",
+        "power":"17.04 bhp"
+    },
+    {
+        "name" :"Honda Hness CB350",
+        "image":"hness.jpg",
+        "price" :"Rs 2,40,401",
+        "engineCapacity":"348.36 CC",
+        "mileage":"35 kmpl",
+        "kerbweight":"181 kg",
+        "seatheight":"800 mm",
+        "fuelTankcapacity":"15 litres",
+        "power":"20.78 bhp"
+    },
+    {
+        "name" :"Honda CB350RS",
+        "image":"cb350.jpg",
+        "price" :"Rs 2,45,898",
+        "engineCapacity":"348.36 CC",
+        "mileage":"36 kmpl",
+        "kerbweight":"179 kg",
+        "seatheight":"800 mm",
+        "fuelTankcapacity":"15 litres",
+        "power":"20.78 bhp"
+    }
+]

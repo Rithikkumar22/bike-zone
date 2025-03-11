@@ -1,0 +1,125 @@
+[
+    {
+        "name" :"Bajaj Pulsar RS 200",
+        "image":"RS200.jpg",
+        "price" :"Rs 1,99,373",
+        "engineCapacity":"199.5 CC",
+        "mileage":"35 kmpl",
+        "kerbweight":"166 kg",
+        "seatheight":"810 mm",
+        "fuelTankcapacity":"13 litres",
+        "power":"24.1 bhp"
+    },
+    {
+        "name" :"Bajaj Platina 100",
+        "image":"platina.jpg",
+        "price" :"Rs 82,618",
+        "engineCapacity":"102 CC",
+        "mileage":" 72 kmpl",
+        "kerbweight":"117 kg",
+        "seatheight":"807 mm",
+        "fuelTankcapacity":"11 litres",
+        "power":"8.48 bhp"
+
+    },
+    {
+        "name" :"Bajaj Pulsar NS200",
+        "image":"NS200.jpg",
+        "price" :"Rs 1,68,582",
+        "engineCapacity":"199.5 CC",
+        "mileage":"36 kmpl",
+        "kerbweight":"159.5 kg",
+        "seatheight":"805 mm",
+        "fuelTankcapacity":"12 litres",
+        "power":"24.13 bhp"
+
+    },
+    {
+        "name" :"Bajaj Pulsar 150",
+        "image":"pulsar.jpg",
+        "price" :"Rs 1,23,325",
+        "engineCapacity":"149.5 CC",
+        "mileage":"47 kmpl",
+        "kerbweight":"148 kg",
+        "seatheight":"785 mm",
+        "fuelTankcapacity":"15 litres",
+        "power":"13.8 bhp"
+    },
+    {
+        "name" :"Bajaj Pulsar 220 F",
+        "image":"220.jpg",
+        "price" :"Rs 1,61,198",
+        "engineCapacity":"220 CC",
+        "mileage":"40 kmpl",
+        "kerbweight":"160 kg",
+        "seatheight":"795 mm",
+        "fuelTankcapacity":"15 litres",
+        "power":"20.11 bhp"
+    },
+    {
+        "name" :"Bajaj Dominar 400",
+        "image":"dominar400.jpg",
+        "price" :"Rs 2,70,280",
+        "engineCapacity":"373.3 CC",
+        "mileage":"30 kmpl",
+        "kerbweight":"193 kg",
+        "seatheight":"800 mm",
+        "fuelTankcapacity":"13 litres",
+        "power":"39.42 bhp"
+    },
+    {
+        "name" :"Bajaj Dominar 250",
+        "image":"dominar250.jpg",
+        "price" :"Rs 2,11,698",
+        "engineCapacity":"248.8 CC",
+        "mileage":"32 kmpl",
+        "kerbweight":"180 kg",
+        "seatheight":"800 mm",
+        "fuelTankcapacity":"13 litres",
+        "power":"26.63 bhp"
+    },
+    {
+        "name" :"Bajaj Pulsar N250",
+        "image":"N250.jpg",
+        "price" :"Rs 1,64,872",
+        "engineCapacity":"249 CC",
+        "mileage":"44 kmpl",
+        "kerbweight":"162 kg",
+        "seatheight":"795 mm",
+        "fuelTankcapacity":"14 litres",
+        "power":"24.1 bhp"
+    },
+    {
+        "name" :"Bajaj Pulsar F250",
+        "image":"F250.jpg",
+        "price" :"Rs 1,64,872",
+        "engineCapacity":"249 CC",
+        "mileage":"39 kmpl",
+        "kerbweight":"164 kg",
+        "seatheight":"795 mm",
+        "fuelTankcapacity":"14 litres",
+        "power":"24.1 bhp"
+    },
+    {
+        "name" :"Bajaj CT 110",
+        "image":"Ct110.jpg",
+        "price" :"Rs 82,070",
+        "engineCapacity":"115.45 CC",
+        "mileage":"70 kmpl",
+        "kerbweight":"127 kg",
+        "seatheight":"810 mm",
+        "fuelTankcapacity":"11 litres",
+        "power":"8.48 bhp"
+    },
+    {
+        "name" :"Bajaj Avenger Cruise 220",
+        "image":"avenger.jpg",
+        "price" :"Rs 1,67,427",
+        "engineCapacity":"220 CC",
+        "mileage":"40 kmpl",
+        "kerbweight":"163 kg",
+        "seatheight":"737 mm",
+        "fuelTankcapacity":"13 litres",
+        "power":"14.79 bhp"
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "name" :"Kawasaki Z900",
+        "image":"900.jpg",
+        "price" :"Rs 10,26,578",
+        "engineCapacity":"948 CC",
+        "mileage":"16 kmpl",
+        "kerbweight":"212 kg",
+        "seatheight":"820 mm",
+        "fuelTankcapacity":"17 litres",
+        "power":"123.64 bhp"
+    },
+    {
+        "name" :"Kawasaki Ninja 300",
+        "image":"300.jpg",
+        "price" :"Rs 3,86,822",
+        "engineCapacity":"296 CC",
+        "mileage":"29 kmpl",
+        "kerbweight":"179 kg",
+        "seatheight":"780 mm",
+        "fuelTankcapacity":"17 litres",
+        "power":"38.88 bhp"
+
+    },
+    {
+        "name" :"Kawasaki Z650",
+        "image":"650z.jpg",
+        "price" :"Rs 7,26,516",
+        "engineCapacity":"649 CC",
+        "mileage":"58.5 kmpl",
+        "kerbweight":"191 kg",
+        "seatheight":"790 mm",
+        "fuelTankcapacity":"15 litres",
+        "power":"67.31 bhp"
+
+    },
+    {
+        "name" :"Kawasaki Ninja 650",
+        "image":"650.jpg",
+        "price" :"Rs 8,08,948",
+        "engineCapacity":"649 CC",
+        "mileage":"18 kmpl",
+        "kerbweight":"196 kg",
+        "seatheight":"790 mm",
+        "fuelTankcapacity":"15 litres",
+        "power":"67.3 bhp"
+    },
+    {
+        "name" :"Kawasaki Ninja 400",
+        "image":"400.jpg",
+        "price" :"Rs 5,92,115",
+        "engineCapacity":"399 CC",
+        "mileage":"26.7 kmpl",
+        "kerbweight":"168 kg",
+        "seatheight":"785 mm",
+        "fuelTankcapacity":"14 litres",
+        "power":"44.7 bhp"
+    },
+    {
+        "name" :"Kawasaki Ninja ZX-10R",
+        "image":"zx10r.jpg",
+        "price" :"Rs 18,39,372",
+        "engineCapacity":"998 CC",
+        "mileage":"11 kmpl",
+        "kerbweight":"207 kg",
+        "seatheight":"835 mm",
+        "fuelTankcapacity":"17 litres",
+        "power":"200.21 bhp"
+    },
+    {
+        "name" :"Kawasaki Ninja 1000 SX",
+        "image":"sx.jpg",
+        "price" :"Rs 13,78,886",
+        "engineCapacity":"1043 CC",
+        "mileage":"14 kmpl",
+        "kerbweight":"238 kg",
+        "seatheight":"835 mm",
+        "fuelTankcapacity":"19 litres",
+        "power":"140.13 bhp"
+    },
+    {
+        "name" :"Kawasaki Versys 1000",
+        "image":"ver1000.jpg",
+        "price" :"Rs 13,91,1031",
+        "engineCapacity":"1043 CC",
+        "mileage":"45 kmpl",
+        "kerbweight":"255 kg",
+        "seatheight":"820 mm",
+        "fuelTankcapacity":"21 litres",
+        "power":"118.27 bhp"
+    },
+    {
+        "name" :"Kawasaki Versys 650",
+        "image":"ver650.jpg",
+        "price" :"Rs 8,76,089",
+        "engineCapacity":"249 CC",
+        "mileage":"18 kmpl",
+        "kerbweight":"219 kg",
+        "seatheight":"845 mm",
+        "fuelTankcapacity":"21 litres",
+        "power":"65.7 bhp"
+    }
+]

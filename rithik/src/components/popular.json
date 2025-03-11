@@ -1,0 +1,37 @@
+[
+    {
+        "name" :"TVS Raider 125",
+        "image":"raider.jpg",
+        "price" :"Rs  1,15,054",
+        "engineCapacity":"124.8 CC",
+        "mileage":"56.7 kmpl",
+        "kerbweight":"123 kg",
+        "seatheight":"780 mm",
+        "fuelTankcapacity":"10 litres",
+        "power":"11.2 bhp"
+    },
+    {
+        "name" :"Harley-Davidson X440",
+        "image":"x440.jpg",
+        "price" :"Rs 2,69,421",
+        "engineCapacity":"440 CC",
+        "mileage":" 35 kmpl",
+        "kerbweight":"190.5 kg",
+        "seatheight":"805 mm",
+        "fuelTankcapacity":"13.5 litres",
+        "power":"27 bhp"
+
+    },
+    {
+        "name" :"Royal Enfield Hunter 350",
+        "image":"hunter.jpg",
+        "price" :"Rs 1,73,231",
+        "engineCapacity":"349.34 CC",
+        "mileage":"36  kmpl",
+        "kerbweight":"177 kg",
+        "seatheight":"800 mm",
+        "fuelTankcapacity":"13 litres",
+        "power":"20.2 bhp"
+
+    }
+]

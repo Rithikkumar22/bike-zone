@@ -1,0 +1,48 @@
+[
+    {
+        "name" :"Jawa 42",
+        "image":"jawa42.jpg",
+        "price" :"Rs 2,02,524",
+        "engineCapacity":"294.72 CC",
+        "mileage":"33 kmpl",
+        "kerbweight":"182 kg",
+        "seatheight":"765 mm",
+        "fuelTankcapacity":"13.2 litres",
+        "power":"26.95 bhp"
+    },
+    {
+        "name" :"Jawa 42 Bobber",
+        "image":"bobber.jpg",
+        "price" :"Rs 2,49,562",
+        "engineCapacity":"334 CC",
+        "mileage":"30 kmpl",
+        "kerbweight":"175 kg",
+        "seatheight":"835 mm",
+        "fuelTankcapacity":"13 litres",
+        "power":"30.2 bhp"
+
+    },
+    {
+        "name" :"Jawa Perak",
+        "image":"perak.jpg",
+        "price" :"Rs 2,47,362",
+        "engineCapacity":"334 CC",
+        "mileage":"30 kmpl",
+        "kerbweight":"185 kg",
+        "seatheight":"750 mm",
+        "fuelTankcapacity":"13.2 litres",
+        "power":"30.2 bhp"
+
+    },
+    {
+        "name" :"Jawa Standard",
+        "image":"standard.jpg",
+        "price" :"Rs 2,12,421",
+        "engineCapacity":"294.72 CC",
+        "mileage":"26 kmpl",
+        "kerbweight":"182 kg",
+        "seatheight":"765 mm",
+        "fuelTankcapacity":"13.2 litres",
+        "power":"26.95 bhp"
+    }
+]

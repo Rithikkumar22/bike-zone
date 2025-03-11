@@ -1,0 +1,24 @@
+[
+    {
+        "name" :"Hero Karizma XMR 210",
+        "image":"karizma.jpg",
+        "price" :"Rs 1,90,000 - Rs 2,00,000 "
+    },
+    {
+        "name" :"Royal Enfield Bullet 350 Next Gen",
+        "image":"bulletnew.jpg",
+        "price" :"Rs 1,50,000 - Rs 1,60,000"
+
+    },
+    {
+        "name" :"TVS Apache RTR 310",
+        "image":"apachenew.jpg",
+        "price" :"Rs 2,20,000 - Rs 2,29,999"
+
+    },
+    {
+        "name" :"KTM 390 Duke (2024)",
+        "image":"ktmnew.jpg",
+        "price" :"Rs 3,00,000 - Rs 3,30,000"
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "name" :"Yamaha MT 15 V2",
+        "image":"MT.jpg",
+        "price" :"Rs  1,95,182",
+        "engineCapacity":"155 CC",
+        "mileage":"47.5 kmpl",
+        "kerbweight":"141 kg",
+        "seatheight":"810 mm",
+        "fuelTankcapacity":"10 litres",
+        "power":"18.1 bhp"
+    },
+    {
+        "name" :"Yamaha R15 V4",
+        "image":"R15.jpg",
+        "price" :"Rs 2,16,533",
+        "engineCapacity":"155 CC",
+        "mileage":"50 kmpl",
+        "kerbweight":"141 kg",
+        "seatheight":"815 mm",
+        "fuelTankcapacity":"11 litres",
+        "power":"18.1 bhp"
+
+    },
+    {
+        "name" :"Yamaha Aerox 155",
+        "image":"aerox.jpg",
+        "price" :"Rs 1,69,668",
+        "engineCapacity":"155 CC",
+        "mileage":"40 kmpl",
+        "kerbweight":"126 kg",
+        "seatheight":"790 mm",
+        "fuelTankcapacity":"5.5 litres",
+        "power":"14.75 bhp"
+
+    },
+    {
+        "name" :"Yamaha FZ FI",
+        "image":"Fzfi.jpg",
+        "price" :"Rs 1,39,314",
+        "engineCapacity":"149 CC",
+        "mileage":"48 kmpl",
+        "kerbweight":"135 kg",
+        "seatheight":"790 mm",
+        "fuelTankcapacity":"13 litres",
+        "power":"12.2 bhp"
+    },
+    {
+        "name" :"Yamaha FZS Fi V4",
+        "image":"Fzfiv4.jpg",
+        "price" :"Rs 1,49,096",
+        "engineCapacity":"149 CC",
+        "mileage":"60 kmpl",
+        "kerbweight":"136 kg",
+        "seatheight":"790 mm",
+        "fuelTankcapacity":"13 litres",
+        "power":"12.2 bhp"
+    },
+    {
+        "name" :"Yamaha FZ25",
+        "image":"fz25.jpg",
+        "price" :"Rs 1,74,245",
+        "engineCapacity":"249 CC",
+        "mileage":"40 kmpl",
+        "kerbweight":"153 kg",
+        "seatheight":"795 mm",
+        "fuelTankcapacity":"14 litres",
+        "power":"20.5 bhp"
+    },
+    {
+        "name" :"Yamaha Fascino 125",
+        "image":"fascino.jpg",
+        "price" :"Rs 1,01,697",
+        "engineCapacity":"125 CC",
+        "mileage":"49 kmpl",
+        "kerbweight":"99 kg",
+        "seatheight":"804 mm",
+        "fuelTankcapacity":"5.2 litres",
+        "power":"8.04 bhp"
+    }
+]

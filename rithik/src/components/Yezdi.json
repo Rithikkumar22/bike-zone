@@ -1,0 +1,35 @@
+[
+    {
+        "name" :"Yezdi Roadster",
+        "image":"roadster.jpg",
+        "price" :"Rs 2,39,614",
+        "engineCapacity":"334 CC",
+        "mileage":"28 kmpl",
+        "kerbweight":"194 kg",
+        "seatheight":"790 mm",
+        "fuelTankcapacity":"12.5 litres",
+        "power":"29.23 bhp"
+    },
+    {
+        "name" :"Yezdi Adventure",
+        "image":"adventure.jpg",
+        "price" :"Rs 2,50,346",
+        "engineCapacity":"334 CC",
+        "mileage":"30 kmpl",
+        "kerbweight":"198 kg",
+        "seatheight":"815 mm",
+        "fuelTankcapacity":"15.5 litres",
+        "power":"29.89 bhp"
+    },
+    {
+        "name" :"Yezdi Scrambler",
+        "image":"scram.jpg",
+        "price" :"Rs 2,43,747",
+        "engineCapacity":"334 CC",
+        "mileage":"23 kmpl",
+        "kerbweight":"192 kg",
+        "seatheight":"800 mm",
+        "fuelTankcapacity":"12.5 litres",
+        "power":"28.7 bhp"
+    }
+]

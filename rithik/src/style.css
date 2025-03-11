@@ -1,0 +1,274 @@
+.head{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 10px;
+    width: 1520px;
+}
+.header-list{
+    list-style: none;
+    display: flex;
+    font-size: 20px;
+}
+.header-list>li{
+    padding: 10px;
+    margin-left: 15px;
+}
+#cart{
+    margin-left: 950px;
+    border: 1px solid white;
+    height: fit-content;
+    border-radius: 5px;
+    background-color: aliceblue;
+    color: black;
+}
+.bike{
+    width: 1550px;
+    height: 830px;
+}
+#home{
+    height: fit-content;
+}
+.pic{
+    width: 80px;
+    height: 80px;
+}
+#h1{
+    margin: 20px;
+}
+.foot{
+    background-color: black;
+    color: white;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    padding: 0px;
+    width: 1550px;
+    height: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+}
+.img{
+    padding: 8px;
+}
+#twit{
+    margin: 10px;
+}
+#what{
+    margin: 10px;
+}
+#face{
+    margin: 10px;
+}
+#inst{
+    margin: 10px;
+}
+.bottom{
+    position: absolute;
+    top: 800px;
+    left: 620px;
+    color: white;
+    font-size: 40px;
+}
+.down{
+    position: absolute;
+    top: 850px;
+    left: 480px;
+    color: white;
+    font-size: 40px;
+}
+#h3{
+    font-size: 30px;
+}
+.container{
+    width: fit-content;
+    height: fit-content;
+}
+.ktm{
+    width: 180px;
+    border: 1px solid black;
+    padding: 30px;
+    height: 160px;
+    margin-top: 50px;
+    margin-left: 40px;
+    border-radius: 5px;
+    box-shadow: 5px 10px 8px #0085F9;
+}
+body{
+    overflow-x: hidden;
+    overflow-y: visible;  
+    min-height: 100vh;
+}
+#menu1{
+    display: flex;
+    height: 200px;
+}
+.type{
+    border: 1px solid white;
+    width: 463px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 5px 10px 8px #0085F9;
+    color: white;
+    padding: 15px;
+    margin : 70px;
+    height: 700px;
+
+}
+.photo{
+    border-radius: 120px;
+    height: 250px;
+}
+#empty{
+    margin-left: 300px;
+    margin-top: 130px;
+    border: 1px solid black;
+    padding: 100px;
+    border-radius: 5px;
+    width: 900px;
+    font-size: 40px;
+    text-align: center;
+    box-shadow: 5px 10px 8px #0085F9;
+}
+#like{
+    border: 1px solid black;
+    width: 1535px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+.emi{
+    width: 360px;
+    color: white;
+    border-color: dodgerblue;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 8px;
+    background-color: #0085F9;
+}
+#remove{
+    width: 360px;
+    padding: 10px;
+}
+.App{
+    display:flex ;
+    flex-wrap: wrap;
+    height: fit-content;
+    width: 1690px;
+}
+.upcoming{
+    display:flex;
+    margin-top: 50px;
+}
+.add{
+    background-color: dodgerblue;
+    color: white;
+    margin: 10px;
+    border-radius: 4px;
+    padding: 5px;
+    width: 50px;
+}
+.input{
+    padding: 5px;
+}
+.list1{
+    border: 1px solid black;
+    box-shadow: 5px 10px 8px #888888;
+    width: 500px;
+    text-align: left;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: white;
+}
+.type1{
+    border: 1px solid black;
+    width: 450px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 5px 10px 8px #0085F9;
+    padding: 15px;
+    margin: 10px;
+    height: 400px;
+
+}
+#no{
+    margin-left: 450px;
+}
+.photo1{
+    border-radius: 5px;
+}
+.App1{
+    display: flex;
+}
+.App2{
+    display: flex;
+}
+.type2{
+    border: 1px solid black;
+    width: 463px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 5px 10px 8px #0085F9;
+    padding: 15px;
+    margin: 20px;
+    height: fit-content;
+
+}
+
+.inner-container{
+    width: 100%;
+    height: fit-content;
+}
+
+.login{
+    margin-top: 180px;
+    border: 1px solid black;
+    width: 400px;
+    padding: 50px;
+    margin-left: 45%;
+    box-shadow: 5px 10px 8px #0085F9;
+    border-radius: 6px;
+}
+#name{
+    border-radius: 5px;
+    width: 280px;
+
+}
+#pass{
+    border-radius: 5px;
+    width: 280px;
+}
+#email{
+    border-radius: 5px;
+    width: 280px;
+}
+#sig{
+    margin: 10px;
+}
+#root{
+    margin-right: 290px;
+}
+.cal{
+    margin-top: 100px;
+    border: 1px solid black;
+    width: fit-content;
+    padding: 20px;
+    margin-left: 30%;
+    box-shadow: 5px 10px 8px #0085F9;
+    border-radius: 6px;
+    position: fixed;
+}
+.loan{
+    margin: 10px;
+}
+#amt{
+    border-radius: 5px;
+    margin: 20px;
+}
+#but{
+    margin-left: 140px;
+}

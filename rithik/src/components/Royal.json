@@ -1,0 +1,92 @@
+[
+    {
+        "name" :"Royal Enfield Hunter 350",
+        "image":"hunter.jpg",
+        "price" :"Rs 1,73,231",
+        "engineCapacity":"349.34 CC",
+        "mileage":"36  kmpl",
+        "kerbweight":"177 kg",
+        "seatheight":"800 mm",
+        "fuelTankcapacity":"13 litres",
+        "power":"20.2 bhp"
+    },
+    {
+        "name" :"Royal Enfield Bullet 350",
+        "image":"bull.jpeg",
+        "price" :"Rs 1,74,627",
+        "engineCapacity":"346 CC",
+        "mileage":"35 kmpl",
+        "kerbweight":"191 kg",
+        "seatheight":"800 mm",
+        "fuelTankcapacity":"13.5 litres",
+        "power":"19.1 bhp"
+
+    },
+    {
+        "name" :"Royal Enfield Classic 350",
+        "image":"class.jpeg",
+        "price" :"Rs  2,20,256",
+        "engineCapacity":"349 CC",
+        "mileage":"32 kmpl",
+        "kerbweight":"195 kg",
+        "seatheight":"805 mm",
+        "fuelTankcapacity":"13 litres",
+        "power":"20.2 bhp"
+
+    },
+    {
+        "name" :"Royal Enfield Meteor 350",
+        "image":"met.jpeg",
+        "price" :"Rs 2,32,593",
+        "engineCapacity":"349 CC",
+        "mileage":"32.6 kmpl",
+        "kerbweight":"191 kg",
+        "seatheight":"765 mm",
+        "fuelTankcapacity":"15 litres",
+        "power":"20.2 bhp"
+    },
+    {
+        "name" :"Royal Enfield Continental GT 650",
+        "image":"gt.jpeg",
+        "price" :"Rs  3,66,675",
+        "engineCapacity":"648 CC",
+        "mileage":"25 kmpl",
+        "kerbweight":"211 kg",
+        "seatheight":"804 mm",
+        "fuelTankcapacity":"12..5 litres",
+        "power":"47 bhp"
+    },
+    {
+        "name" :"Royal Enfield Himalayan",
+        "image":"hm.jpeg",
+        "price" :"Rs  2,54,349",
+        "engineCapacity":"411 CC",
+        "mileage":"24 kmpl",
+        "kerbweight":"199 kg",
+        "seatheight":"800 mm",
+        "fuelTankcapacity":"14.5 litres",
+        "power":"24.3 bhp"
+    },
+    {
+        "name" :"Royal Enfield Interceptor 650",
+        "image":"int.jpeg",
+        "price" :"Rs  3,49,243",
+        "engineCapacity":"648 CC",
+        "mileage":"23 kmpl",
+        "kerbweight":"213 kg",
+        "seatheight":"804 mm",
+        "fuelTankcapacity":"13.7 litres",
+        "power":"47 bhp"
+    },
+    {
+        "name" :"Royal Enfield Scram 411",
+        "image":"sc.jpeg",
+        "price" :"Rs  2,43,993",
+        "engineCapacity":"411 CC",
+        "mileage":"29 kmpl",
+        "kerbweight":"185 kg",
+        "seatheight":"795 mm",
+        "fuelTankcapacity":"15 litres",
+        "power":"29.6 bhp"
+    }
+]

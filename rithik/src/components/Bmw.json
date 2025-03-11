@@ -1,0 +1,81 @@
+[
+    {
+        "name" :"BMW G310 RR",
+        "image":"g310rr.jpg",
+        "price" :"Rs 3,39,534",
+        "engineCapacity":"312.12 CC",
+        "mileage":"21 kmpl",
+        "kerbweight":"174 kg",
+        "seatheight":"811 mm",
+        "fuelTankcapacity":"11 litres",
+        "power":"33.5 bhp"
+    },
+    {
+        "name" :"BMW G 310 GS",
+        "image":"310gs.jpg",
+        "price" :"Rs 3,67,027",
+        "engineCapacity":"313 CC",
+        "mileage":"19 kmpl",
+        "kerbweight":"175 kg",
+        "seatheight":"835 mm",
+        "fuelTankcapacity":"11.5 litres",
+        "power":"33.52 bhp"
+
+    },
+    {
+        "name" :"BMW G 310 R",
+        "image":"310r.jpg",
+        "price" :"Rs 3,23,038",
+        "engineCapacity":"313 CC",
+        "mileage":"20 kmpl",
+        "kerbweight":"164 kg",
+        "seatheight":"785 mm",
+        "fuelTankcapacity":"11 litres",
+        "power":"33.52 bhp"
+
+    },
+    {
+        "name" :"BMW S 1000 RR",
+        "image":"s1000rr.jpg",
+        "price" :"Rs 23,04,743",
+        "engineCapacity":"999 CC",
+        "mileage":"12 kmpl",
+        "kerbweight":"197 kg",
+        "seatheight":"824 mm",
+        "fuelTankcapacity":"16.5 litres",
+        "power":"206.51 bhp"
+    },
+    {
+        "name" :"BMW R 1250 GS",
+        "image":"1250.jpg",
+        "price" :"Rs 23,08,213",
+        "engineCapacity":"1254 CC",
+        "mileage":"11 kmpl",
+        "kerbweight":"249 kg",
+        "seatheight":"850 mm",
+        "fuelTankcapacity":"20 litres",
+        "power":"134.1 bhp"
+    },
+    {
+        "name" :"BMW M 1000 RR",
+        "image":"1000.jpg",
+        "price" :"Rs 54,83,156",
+        "engineCapacity":"999 CC",
+        "mileage":"10.3 kmpl",
+        "kerbweight":"192 kg",
+        "seatheight":"832 mm",
+        "fuelTankcapacity":"16.5 litres",
+        "power":"209.19 bhp"
+    },
+    {
+        "name" :"BMW S 1000 R",
+        "image":"1000r.jpg",
+        "price" :"Rs 21,38,142",
+        "engineCapacity":"999 CC",
+        "mileage":"12 kmpl",
+        "kerbweight":"199 kg",
+        "seatheight":"830 mm",
+        "fuelTankcapacity":"16.5 litres",
+        "power":"162.26 bhp"
+    }
+]

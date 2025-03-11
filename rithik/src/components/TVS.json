@@ -1,0 +1,103 @@
+[
+    {
+        "name" :"TVS Raider 125",
+        "image":"raider.jpg",
+        "price" :"Rs  1,15,054",
+        "engineCapacity":"124.8 CC",
+        "mileage":"56.7 kmpl",
+        "kerbweight":"123 kg",
+        "seatheight":"780 mm",
+        "fuelTankcapacity":"10 litres",
+        "power":"11.2 bhp"
+    },
+    {
+        "name" :"TVS Apache RTR 160",
+        "image":"rtr160.jpg",
+        "price" :"Rs 1,40,835",
+        "engineCapacity":"159.7 CC",
+        "mileage":"65 kmpl",
+        "kerbweight":"137 kg",
+        "seatheight":"790 mm",
+        "fuelTankcapacity":"12 litres",
+        "power":"15.82 bhp"
+
+    },
+    {
+        "name" :"TVS Ntorq 125",
+        "image":"torq.jpg",
+        "price" :"Rs 1,03,580",
+        "engineCapacity":"124.8 CC",
+        "mileage":"41 kmpl",
+        "kerbweight":"118 kg",
+        "seatheight":"770 mm",
+        "fuelTankcapacity":"5.8 litres",
+        "power":"9.25 bhp"
+
+    },
+    {
+        "name" :"TVS Ronin",
+        "image":"ronin.jpg",
+        "price" :"Rs 1,71,849",
+        "engineCapacity":"225.9 CC",
+        "mileage":"42 kmpl",
+        "kerbweight":"159 kg",
+        "seatheight":"795 mm",
+        "fuelTankcapacity":"14 litres",
+        "power":"20.1 bhp"
+    },
+    {
+        "name" :"TVS Jupiter",
+        "image":"jupiter.jpg",
+        "price" :"Rs 92,485",
+        "engineCapacity":"109.7 CC",
+        "mileage":"49 kmpl",
+        "kerbweight":"107 kg",
+        "seatheight":"765 mm",
+        "fuelTankcapacity":"5.8 litres",
+        "power":"7.77 bhp"
+    },
+    {
+        "name" :"TVS Apache RTR 160 4V",
+        "image":"4v.jpg",
+        "price" :"Rs 1,45,729",
+        "engineCapacity":"159.7 CC",
+        "mileage":"41.4 kmpl",
+        "kerbweight":"144 kg",
+        "seatheight":"800 mm",
+        "fuelTankcapacity":"12 litres",
+        "power":"17.31 bhp"
+    },
+    {
+        "name" :"TVS Jupiter 125",
+        "image":"125.jpg",
+        "price" :"Rs 1,02,854",
+        "engineCapacity":"124.8 CC",
+        "mileage":"50 kmpl",
+        "kerbweight":"108 kg",
+        "seatheight":"765 mm",
+        "fuelTankcapacity":"5.1 litres",
+        "power":"8.04 bhp"
+    },
+    {
+        "name" :"TVS Apache RR310",
+        "image":"rr310.jpg",
+        "price" :"Rs 3,08,741",
+        "engineCapacity":"312.2 CC",
+        "mileage":"34.7 kmpl",
+        "kerbweight":"174 kg",
+        "seatheight":"810 mm",
+        "fuelTankcapacity":"11 litres",
+        "power":"33.5 bhp"
+    },
+    {
+        "name" :"TVS Sport",
+        "image":"sport.jpg",
+        "price" :"Rs 77,111",
+        "engineCapacity":"109.7 CC",
+        "mileage":"68 kmpl",
+        "kerbweight":"110 kg",
+        "seatheight":"790 mm",
+        "fuelTankcapacity":"10 litres",
+        "power":"8.18 bhp"
+    }
+]

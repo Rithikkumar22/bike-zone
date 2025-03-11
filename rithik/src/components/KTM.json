@@ -1,0 +1,114 @@
+[
+    {
+        "name" :"KTM 200 Duke",
+        "image":"duke200.jpg",
+        "price" :"Rs 2,26,113",
+        "engineCapacity":"199.5 CC",
+        "mileage":"34 kmpl",
+        "kerbweight":"159 kg",
+        "seatheight":"822 mm",
+        "fuelTankcapacity":"13.4 litres",
+        "power":"24.67 bhp"
+    },
+    {
+        "name" :"KTM 390 Duke",
+        "image":"duke390.jpg",
+        "price" :"Rs 3,44,933",
+        "engineCapacity":"373.27 CC",
+        "mileage":"20 kmpl",
+        "kerbweight":"171 kg",
+        "seatheight":"822 mm",
+        "fuelTankcapacity":"13.4 litres",
+        "power":"42.9 bhp"
+
+    },
+    {
+        "name" :"KTM 250 Duke",
+        "image":"duke250.jpg",
+        "price" :"Rs 2,71,735",
+        "engineCapacity":"248.76 CC",
+        "mileage":"24 kmpl",
+        "kerbweight":"159.5 kg",
+        "seatheight":"822 mm",
+        "fuelTankcapacity":"13.4 litres",
+        "power":"29.6 bhp"
+
+    },
+    {
+        "name" :"KTM 125 Duke",
+        "image":"duke125.jpg",
+        "price" :"Rs 2,02,806",
+        "engineCapacity":"124.7 CC",
+        "mileage":"40 kmpl",
+        "kerbweight":"159 kg",
+        "seatheight":"822 mm",
+        "fuelTankcapacity":"13.4 litres",
+        "power":"14.3 bhp"
+    },
+    {
+        "name" :"KTM RC 200",
+        "image":"RC200.jpg",
+        "price" :"Rs 2,45,714",
+        "engineCapacity":"199.5 CC",
+        "mileage":"36 kmpl",
+        "kerbweight":"160 kg",
+        "seatheight":"835 mm",
+        "fuelTankcapacity":"13.7 litres",
+        "power":"24.6 bhp"
+    },
+    {
+        "name" :"KTM 390 Adventure",
+        "image":"390.jpg",
+        "price" :"Rs 3,90,431",
+        "engineCapacity":"373.27 CC",
+        "mileage":"18 kmpl",
+        "kerbweight":"177 kg",
+        "seatheight":"855 mm",
+        "fuelTankcapacity":"14.5 litres",
+        "power":"42.9 bhp"
+    },
+    {
+        "name" :"KTM RC 390",
+        "image":"RC390.jpg",
+        "price" :"Rs 3,65,257",
+        "engineCapacity":"373.27 CC",
+        "mileage":"22 kmpl",
+        "kerbweight":"172 kg",
+        "seatheight":"835 mm",
+        "fuelTankcapacity":"13.7 litres",
+        "power":"42.9 bhp"
+    },
+    {
+        "name" :"KTM 250 Adventure",
+        "image":"250.jpg",
+        "price" :"Rs 2,81,075",
+        "engineCapacity":"248.76 CC",
+        "mileage":"25 kmpl",
+        "kerbweight":"177 kg",
+        "seatheight":"855 mm",
+        "fuelTankcapacity":"14.5 litres",
+        "power":"29.63 bhp"
+    },
+    {
+        "name" :"KTM 390 Adventure X",
+        "image":"390x.jpg",
+        "price" :"Rs 3,26,488",
+        "engineCapacity":"373.27 CC",
+        "mileage":"20 kmpl",
+        "kerbweight":"177 kg",
+        "seatheight":"855 mm",
+        "fuelTankcapacity":"14.5 litres",
+        "power":"42.9 bhp"
+    },
+    {
+        "name" :"KTM RC 125",
+        "image":"Rc125.jpg",
+        "price" :"Rs 2,14,509",
+        "engineCapacity":"124.7 CC",
+        "mileage":"37 kmpl",
+        "kerbweight":"160 kg",
+        "seatheight":"824 mm",
+        "fuelTankcapacity":"13.7 litres",
+        "power":"14.34 bhp"
+    }
+]

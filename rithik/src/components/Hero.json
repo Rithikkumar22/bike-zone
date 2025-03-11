@@ -1,0 +1,103 @@
+[
+    {
+        "name" :"Hero Splendor Plus",
+        "image":"splendor.jpeg",
+        "price" :"Rs 88,115",
+        "engineCapacity":"97.2 CC",
+        "mileage":"60 kmpl",
+        "kerbweight":"112 kg",
+        "seatheight":"785 mm",
+        "fuelTankcapacity":"9.8 litres",
+        "power":"7.91 bhp"
+    },
+    {
+        "name" :"Hero HF Deluxe",
+        "image":"hf.jpeg",
+        "price" :"Rs 68,531",
+        "engineCapacity":"97.2 CC",
+        "mileage":"65 kmpl",
+        "kerbweight":"110 kg",
+        "seatheight":"805 mm",
+        "fuelTankcapacity":"9.1 litres",
+        "power":"7.91 bhp"
+
+    },
+    {
+        "name" :"Hero Glamour",
+        "image":"gl.jpeg",
+        "price" :"Rs 1,00,600",
+        "engineCapacity":"124.7 CC",
+        "mileage":"55 kmpl",
+        "kerbweight":"122 kg",
+        "seatheight":"793 mm",
+        "fuelTankcapacity":"10 litres",
+        "power":"10.7 bhp"
+
+    },
+    {
+        "name" :"Hero Splendor Plus Xtec",
+        "image":"pl.jpeg",
+        "price" :"Rs 93,192",
+        "engineCapacity":"97.2 CC",
+        "mileage":"60 kmpl",
+        "kerbweight":"112 kg",
+        "seatheight":"785 mm",
+        "fuelTankcapacity":"9.8 litres",
+        "power":"7.9 bhp"
+    },
+    {
+        "name" :"Hero Xtreme 160R 4V",
+        "image":"xtr.jpeg",
+        "price" :"Rs 1,49,611",
+        "engineCapacity":"163.2 CC",
+        "mileage":"45 kmpl",
+        "kerbweight":"144 kg",
+        "seatheight":"795 mm",
+        "fuelTankcapacity":"12 litres",
+        "power":"16.6 bhp"
+    },
+    {
+        "name" :"Hero Xpulse 200 4V",
+        "image":"xpl.jpeg",
+        "price" :"Rs 1,68,829",
+        "engineCapacity":"199.6 CC",
+        "mileage":"32.9 kmpl",
+        "kerbweight":"159 kg",
+        "seatheight":"825 mm",
+        "fuelTankcapacity":"13 litres",
+        "power":"18.9 bhp"
+    },
+    {
+        "name" :"Hero Passion Plus",
+        "image":"pass.jpeg",
+        "price" :"Rs 89,269",
+        "engineCapacity":"97.2 CC",
+        "mileage":"55 kmpl",
+        "kerbweight":"115 kg",
+        "seatheight":"790 mm",
+        "fuelTankcapacity":"11 litres",
+        "power":"7.91 bhp"
+    },
+    {
+        "name" :"Hero Pleasure +",
+        "image":"ple.jpeg",
+        "price" :"Rs 80,597",
+        "engineCapacity":"110.9 CC",
+        "mileage":"50 kmpl",
+        "kerbweight":"104 kg",
+        "seatheight":"765 mm",
+        "fuelTankcapacity":"4.8 litres",
+        "power":"8 bhp"
+    },
+    {
+        "name" :"Hero Xoom",
+        "image":"xoom.jpeg",
+        "price" :"Rs 89,604",
+        "engineCapacity":"110.9 CC",
+        "mileage":"50 kmpl",
+        "kerbweight":"108 kg",
+        "seatheight":"770 mm",
+        "fuelTankcapacity":"5.2 litres",
+        "power":"8.05 bhp"
+    }
+]

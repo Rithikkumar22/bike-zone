@@ -1,0 +1,103 @@
+[
+    {
+        "name" :"Suzuki Gixxer SF",
+        "image":"sf.jpg",
+        "price" :"Rs 1,66,532",
+        "engineCapacity":"155 CC",
+        "mileage":"45 kmpl",
+        "kerbweight":"148 kg",
+        "seatheight":"795 mm",
+        "fuelTankcapacity":"12 litres",
+        "power":"13.4 bhp"
+    },
+    {
+        "name" :"Suzuki Access 125",
+        "image":"access.jpg",
+        "price" :"Rs 1,02,014",
+        "engineCapacity":"124 CC",
+        "mileage":"47 kmpl",
+        "kerbweight":"103 kg",
+        "seatheight":"773 mm",
+        "fuelTankcapacity":"5 litres",
+        "power":"8.6 bhp"
+
+    },
+    {
+        "name" :"Suzuki Burgman Street 125",
+        "image":"burg.jpg",
+        "price" :"Rs 1,16,968",
+        "engineCapacity":"124 CC",
+        "mileage":"58.5 kmpl",
+        "kerbweight":"110 kg",
+        "seatheight":"780 mm",
+        "fuelTankcapacity":"5.5 litres",
+        "power":"8.58 bhp"
+
+    },
+    {
+        "name" :"Suzuki Hayabusa",
+        "image":"haya.jpg",
+        "price" :"Rs 16,97,240",
+        "engineCapacity":"1340 CC",
+        "mileage":"18 kmpl",
+        "kerbweight":"266 kg",
+        "seatheight":"800 mm",
+        "fuelTankcapacity":"20 litres",
+        "power":"190 bhp"
+    },
+    {
+        "name" :"Suzuki Avenis 125",
+        "image":"ave.jpg",
+        "price" :"Rs 1,09,537",
+        "engineCapacity":"124.3 CC",
+        "mileage":"49.6 kmpl",
+        "kerbweight":"106 kg",
+        "seatheight":"780 mm",
+        "fuelTankcapacity":"5.2 litres",
+        "power":"8.58 bhp"
+    },
+    {
+        "name" :"Suzuki V-Strom SX",
+        "image":"vst.jpg",
+        "price" :"Rs 2,51,318",
+        "engineCapacity":"249 CC",
+        "mileage":"36 kmpl",
+        "kerbweight":"167 kg",
+        "seatheight":"835 mm",
+        "fuelTankcapacity":"12 litres",
+        "power":"26.1 bhp"
+    },
+    {
+        "name" :"Suzuki Gixxer SF 250",
+        "image":"250sf.jpg",
+        "price" :"Rs 2,25,532",
+        "engineCapacity":"249 CC",
+        "mileage":"35 kmpl",
+        "kerbweight":"161 kg",
+        "seatheight":"765 mm",
+        "fuelTankcapacity":"12 litres",
+        "power":"26.13 bhp"
+    },
+    {
+        "name" :"Suzuki Gixxer",
+        "image":"gixx.jpg",
+        "price" :"Rs 1,64,001",
+        "engineCapacity":"155 CC",
+        "mileage":"45 kmpl",
+        "kerbweight":"141 kg",
+        "seatheight":"795 mm",
+        "fuelTankcapacity":"12 litres",
+        "power":"13.41 bhp"
+    },
+    {
+        "name" :"Suzuki Gixxer 250",
+        "image":"gix.jpg",
+        "price" :"Rs 2,13,765",
+        "engineCapacity":"249 CC",
+        "mileage":"34 kmpl",
+        "kerbweight":"156 kg",
+        "seatheight":"800 mm",
+        "fuelTankcapacity":"12 litres",
+        "power":"8.18 bhp"
+    }
+]

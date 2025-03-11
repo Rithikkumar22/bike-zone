@@ -1,0 +1,48 @@
+[
+    {
+        "name" :"Hero Destini Prime",
+        "image":"destini.jpeg",
+        "price" :"Rs 92,299",
+        "engineCapacity":"124.6 CC",
+        "mileage":"45 kmpl",
+        "kerbweight":"115 kg",
+        "seatheight":"778 mm",
+        "fuelTankcapacity":"5 litres",
+        "power":"9 bhp"
+    },
+    {
+        "name" :"Kawasaki Ninja H2 SX",
+        "image":"ninja.jpeg",
+        "price" :"Rs 35,89,462",
+        "engineCapacity":"998 CC",
+        "mileage":" 12 kmpl",
+        "kerbweight":"266 kg",
+        "seatheight":"835 mm",
+        "fuelTankcapacity":"19 litres",
+        "power":"197.2 bhp"
+
+    },
+    {
+        "name" :"Kawasaki Z900RS",
+        "image":"RS.jpeg",
+        "price" :"Rs 18,93,795",
+        "engineCapacity":"948 CC",
+        "mileage":"13  kmpl",
+        "kerbweight":"215 kg",
+        "seatheight":"835 mm",
+        "fuelTankcapacity":"17 litres",
+        "power":"109.96 bhp"
+
+    },
+    {
+        "name" :"Kawasaki Z H2",
+        "image":"Zh2.jpeg",
+        "price" :"Rs 26,35,723",
+        "engineCapacity":"998 CC",
+        "mileage":"10 kmpl",
+        "kerbweight":"239 kg",
+        "seatheight":"830 mm",
+        "fuelTankcapacity":"19 litres",
+        "power":"197.26 bhp"
+    }
+]
