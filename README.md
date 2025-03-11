@@ -15,9 +15,9 @@ Bike Zone is an online platform for browsing and purchasing bikes. Built with a 
 ---
 
 ## 🏗️ Tech Stack
-- **Frontend:** React.js, Tailwind CSS
+- **Frontend:** React.js
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Database:** MYSQL
 - **Authentication:** JWT (JSON Web Tokens)
 
 ---
