@@ -26,9 +26,10 @@ Bike Zone is an online platform for browsing and purchasing bikes. Built with a 
 
 ### 1️⃣ Clone the Repository
 
-`git clone https://github.com/Rithikkumar22/bike-zone.git`
-`\ncd bike-zone`
-
+```bash
+git clone https://github.com/Rithikkumar22/bike-zone.git
+cd bike-zone
+```
 
 ### 2️⃣ Install Dependencies
 #### For Frontend
