@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🚴‍♂️ Bike Zone
 
 Bike Zone is an online platform for browsing and purchasing bikes. Built with a **React.js frontend** and **Node.js backend**, it provides a seamless experience for users to explore different bike models and manage their wishlist.
@@ -99,4 +98,4 @@ This project is licensed under the MIT License.
 ---
 
 ### ✨ Created by [Rithikkumar22](https://github.com/Rithikkumar22)
-EOF
+
