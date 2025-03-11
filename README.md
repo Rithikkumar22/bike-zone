@@ -33,10 +33,10 @@ cd bike-zone
 
 ### 2️⃣ Install Dependencies
 #### For Frontend
-\`\`\`bash
+```bash
 cd frontend
 npm install
-\`\`\`
+```
 
 #### For Backend
 \`\`\`bash
