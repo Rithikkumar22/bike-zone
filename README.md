@@ -8,7 +8,6 @@ Bike Zone is an online platform for browsing and purchasing bikes. Built with a 
 - 🏍️ Browse different bike brands and models
 - 🛒 Add bikes to wishlist/cart
 - 🔐 User authentication (login/signup/logout)
-- 🛠️ Admin panel for product management (optional)
 - 📦 Backend API with MySQL database
 - ⚡ Fast and responsive UI with React.js
 
